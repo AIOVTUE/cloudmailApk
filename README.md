@@ -1,14 +1,21 @@
 # CloudMail
 
 Cloud-Mail 基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发
+
 项目地址 [cloud-mail](https://github.com/maillab/cloud-mail)
+
 本项目是基于该项目制作的安卓apk
 ## 预览图
 收件箱
+
 ![](https://pic1.imgdb.cn/item/69f6205ebd91a69b7b941eec.png)
+
 设置页
+
 ![](https://pic1.imgdb.cn/item/69f6208bbd91a69b7b941f56.png)
+
 邮件预览页面
+
 ![](https://pic1.imgdb.cn/item/69f620d2bd91a69b7b941fee.png)
 
 
